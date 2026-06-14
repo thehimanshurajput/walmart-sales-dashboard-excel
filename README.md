@@ -81,7 +81,7 @@ The dashboard enables stakeholders to monitor business performance, identify hig
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview-dashboard.jpg)
+![Overview Dashboard](screenshots/walmart-sales-dashboard.png)
 
 ---
 
